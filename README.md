@@ -25,16 +25,19 @@ I'm a passionate **Frontend Developer** with a love for creating engaging and us
 ## 🏗️ Featured Projects
 
 ### 🎯 [Budo Mobile](https://github.com/Harris-Consult/Budo-Mobile)
-Mobile application development focusing on user experience and performance.
+Mobile application development focusing on Consultancy for various professions.
+
+### 🎨 [Colorra](https://github.com/Emmanuelayeni3000/Colorra-web-app)
+A Modern web application for creating, sharing, and discovering beautiful color palettes.
 
 ### 🌐 [WED-VITE](https://github.com/Emmanuelayeni3000/WED-VITE)
-Modern web application built with Vite for optimal development experience and performance.
+Modern web application built with Next.js for optimal development experience and performance.
 
 ### 🚌 [School Ride Platform](https://github.com/Harris-Consult/school-ride-webapp)
 Web application for school transportation management with companion [website](https://github.com/Harris-Consult/school-ride-website).
 
 ### 💼 [IIM Frontend](https://github.com/Harris-Consult/iim-frontend)
-Professional frontend application showcasing modern development practices.
+Professional frontend application for Institute of Information Management Africa.
 
 
 ## 🌟 What I'm Passionate About
