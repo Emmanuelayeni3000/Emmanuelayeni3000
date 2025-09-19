@@ -12,7 +12,7 @@ I'm a passionate **Frontend Developer** with a love for creating engaging and us
 
 ### Tech Stack
 - **Languages:** Typescript, JavaScript, Node, HTML5, CSS3
-- **Frameworks/Libraries:** Express.js, Next.js, React, React Native, Expo Vite
+- **Frameworks/Libraries:** Express.js, Next.js, React, React Native, Expo, Vite
 - **Styling:** TailwindCSS, nativewind, Modern CSS, Responsive Design
 - **Tools:** Git, GitHub, VS Code
 
@@ -37,7 +37,7 @@ Modern web application built with Next.js for optimal development experience and
 Web application for school transportation management with companion [website](https://github.com/Harris-Consult/school-ride-website).
 
 ### 💼 [IIM Frontend](https://github.com/Harris-Consult/iim-frontend)
-Professional frontend application for Institute of Information Management Africa.
+Professional frontend application for the Institute of Information Management Africa.
 
 
 ## 🌟 What I'm Passionate About
