@@ -51,7 +51,7 @@ Professional frontend application for the Institute of Information Management Af
 
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/emmanuel-ayeni-243923283)
 - 📧 **Email:** [Drop me a line](mailto:ayeniemmanuel914@gmail.com)
-- 💻 **Portfolio:** [Check out my work](https://emmanuelayeni3000.github.io)
+- 💻 **Portfolio:** [Check out my work](https://github.com/Emmanuelayeni3000?tab=repositories)
 
 ## 🎯 Current Goals
 
