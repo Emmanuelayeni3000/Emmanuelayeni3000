@@ -55,8 +55,8 @@ Professional frontend application for the Institute of Information Management Af
 
 ## 🎯 Current Goals
 
-- 🔍 Exploring advanced React patterns and state management
-- 📱 Diving deeper into mobile-first development approaches
+- 🔍 Exploring the Backend 
+- 📱 Diving deeper into mobile-first development approaches, and large-scale system Design
 - 🎨 Enhancing my UI/UX design skills
 - 🤝 Contributing to open-source projects
 
