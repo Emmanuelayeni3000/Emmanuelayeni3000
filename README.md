@@ -1,26 +1,42 @@
-# Hi there! 👋 I'm EMMANUEL AYENI 👨🏾‍💻</>
+# Hi there! 👋 I'm EMMANUEL AYENI — Full Stack Developer 👨🏾‍💻
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend Developer** with a love for creating engaging and user-friendly web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+I'm a passionate Full Stack Developer focused on building reliable, maintainable, and user-friendly web and mobile applications. I enjoy working across the entire stack — from designing intuitive front-end experiences to building robust back-end services, APIs, and scalable systems.
 
-- 🔭 I'm currently working on various web applications, including mobile and web platforms
-- 🌱 I'm continuously learning and exploring new frontend technologies
-- 🎯 I focus on creating responsive and modern web experiences
+- 🔭 I build end-to-end applications (frontend + backend + deployment)
+- 🌱 I continuously learn new backend technologies, system design, and cloud-native patterns
+- 🎯 I strive for clean architecture, testable code, and performant user experiences
 
 ## 🛠️ Tech Stack
 
-### Tech Stack
-- **Languages:** Typescript, JavaScript, Node, HTML5, CSS3
-- **Frameworks/Libraries:** Express.js, Next.js, React, React Native, Expo, Vite
-- **Styling:** TailwindCSS, nativewind, Modern CSS, Responsive Design
-- **Tools:** Git, GitHub, VS Code
+### Languages
+- TypeScript, JavaScript, SQL
+
+### Frontend
+- React, Next.js, React Native, Expo, Vite
+- Styling: Tailwind CSS, nativewind, modern responsive CSS
+
+### Backend & APIs
+- Node.js, Express.js, (familiar with NestJS patterns)
+- RESTful APIs, GraphQL (basics), authentication & authorization (JWT, OAuth)
+
+### Databases & Storage
+- PostgreSQL, MongoDB, Redis
+- Cloud storage: S3-compatible services
+
+### DevOps, Testing & Tools
+- Docker, Git, GitHub, GitHub Actions (CI/CD)
+- Testing: Jest, React Testing Library
+- Deployment: Vercel, basic experience with AWS/GCP
 
 ### Areas of Expertise
-- 📱 Mobile-responsive web applications
-- 🎨 Modern UI/UX implementation
-- ⚡ Performance optimization 
-- 🔧 Component-based architecture
+- Building responsive, accessible frontends
+- Designing and implementing RESTful backend services
+- Database schema design and query optimization
+- Authentication, authorization and security best practices
+- Performance tuning and frontend optimization
+- CI/CD pipelines and containerized deployments
 
 ## 🏗️ Featured Projects
 
@@ -39,13 +55,12 @@ Web application for school transportation management with companion [website](ht
 ### 💼 [IIM Frontend](https://github.com/Harris-Consult/iim-frontend)
 Professional frontend application for the Institute of Information Management Africa.
 
-
 ## 🌟 What I'm Passionate About
 
-- **Clean Code:** Writing maintainable and scalable frontend code
-- **User Experience:** Creating intuitive interfaces that users love
-- **Performance:** Building fast and efficient web applications
-- **Continuous Learning:** Staying updated with the latest frontend trends and technologies
+- Clean, well-tested code and maintainable architecture
+- Building delightful user experiences and interfaces
+- Scalability, observability, and performance in distributed systems
+- Continuous learning and contributing to open-source
 
 ## 📫 Let's Connect!
 
@@ -55,18 +70,18 @@ Professional frontend application for the Institute of Information Management Af
 
 ## 🎯 Current Goals
 
-- 🔍 Exploring the Backend 
-- 📱 Diving deeper into mobile-first development approaches, and large-scale system Design
-- 🎨 Enhancing my UI/UX design skills
-- 🤝 Contributing to open-source projects
+- Deepen backend and system design knowledge for large-scale applications
+- Improve DevOps skills: CI/CD, container orchestration, and cloud deployments
+- Lead end-to-end projects and mentor other developers
+- Contribute more to open-source full stack projects
 
 ## 💡 Fun Facts
 
-- ⚡ I love optimizing web performance
-- 🎨 I have an eye for modern design trends
-- 🚀 I'm always excited about new JavaScript frameworks
-- 📚 I believe in the power of continuous learning
-- 😜 I am Fun to Work with.
+- ⚡ I love optimizing web performance and reducing load times
+- 🎨 I have an eye for modern design trends and pixel-perfect UI
+- 🚀 I'm always excited to prototype with new JavaScript frameworks
+- 📚 I believe in continuous learning and building community
+- 😜 I am fun to work with.
 
 ---
 
