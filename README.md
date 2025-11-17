@@ -46,11 +46,11 @@ Mobile application development focusing on Consultancy for various professions.
 ### 🎨 [Colorra](https://github.com/Emmanuelayeni3000/Colorra-web-app)
 A Modern web application for creating, sharing, and discovering beautiful color palettes.
 
-### 🌐 [WED-VITE](https://github.com/Emmanuelayeni3000/WED-VITE)
+### 🌐 [ELIVRA](https://github.com/Emmanuelayeni3000/ELIVRA)
 Modern web application built with Next.js for optimal development experience and performance.
 
-### 🚌 [School Ride Platform](https://github.com/Harris-Consult/school-ride-webapp)
-Web application for school transportation management with companion [website](https://github.com/Harris-Consult/school-ride-website).
+### 🚌 [School Ride Platform](https://app.schoolrider.com/login)
+Web application for school transportation management with companion [website](https://web.schoolrider.com/).
 
 ### 💼 [IIM Frontend](https://github.com/Harris-Consult/iim-frontend)
 Professional frontend application for the Institute of Information Management Africa.
