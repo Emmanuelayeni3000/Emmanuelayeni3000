@@ -52,7 +52,7 @@ Modern web application built with Next.js for optimal development experience and
 ### 🚌 [School Ride Platform](https://app.schoolrider.com/login)
 Web application for school transportation management with companion [website](https://web.schoolrider.com/).
 
-### 💼 [IIM Frontend](https://github.com/Harris-Consult/iim-frontend)
+### 💼 [IIM Frontend](https://iim.harrisconsult.org/login)
 Professional frontend application for the Institute of Information Management Africa.
 
 ## 🌟 What I'm Passionate About
