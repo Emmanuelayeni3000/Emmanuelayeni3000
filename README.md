@@ -61,7 +61,7 @@ Jest 🧪 • Vercel 🔺 • AWS/GCP ☁️
 *"The app that makes professional consultancy feel like a breeze"*
 > Mobile-first consultancy platform that professionals actually love using
 
-### 🎨 [Colorra](https://github.com/Emmanuelayeni3000/Colorra-web-app)
+### 🎨 [Colorra](https://colorra.eacalledsolutions.org/)
 *"Where colors come to life"*
 > Beautiful color palette creator that sparked joy in designers worldwide
 
