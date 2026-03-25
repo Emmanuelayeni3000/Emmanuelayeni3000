@@ -40,7 +40,7 @@ Tailwind CSS 🎨 • NativeWind 💨 • Modern CSS Wizardry ✨
 
 ### ⚙️ Backend Powerhouse
 ```bash
-Node.js 🟢 • Express.js 🚂 • RESTful APIs 🔄
+Node.js 🟢 • Express.js 🚂 • RESTful APIs 🔄 
 GraphQL 📊 • JWT/OAuth 🔐 • NestJS Patterns 🏗️
 ```
 
@@ -61,7 +61,7 @@ Jest 🧪 • Vercel 🔺 • AWS/GCP ☁️
 *"Where colors come to life"*
 > Beautiful color palette creator that sparked joy in designers worldwide
 
-### 🌐 [ELIVRA](https://github.com/Emmanuelayeni3000/ELIVRA)
+### 🌐 [ELIVRA](https://elivra.eacalledsolutions.org/)
 *"Next.js done right"*
 > Lightning-fast web app that showcases what modern development can achieve
 
