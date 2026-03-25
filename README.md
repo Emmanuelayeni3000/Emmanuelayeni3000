@@ -57,10 +57,6 @@ Jest 🧪 • Vercel 🔺 • AWS/GCP ☁️
 
 ## 🏆 Projects I'm Actually Proud Of
 
-### 🎯 [Budo Mobile](https://github.com/Harris-Consult/Budo-Mobile)
-*"The app that makes professional consultancy feel like a breeze"*
-> Mobile-first consultancy platform that professionals actually love using
-
 ### 🎨 [Colorra](https://colorra.eacalledsolutions.org/)
 *"Where colors come to life"*
 > Beautiful color palette creator that sparked joy in designers worldwide
@@ -69,13 +65,7 @@ Jest 🧪 • Vercel 🔺 • AWS/GCP ☁️
 *"Next.js done right"*
 > Lightning-fast web app that showcases what modern development can achieve
 
-### 🚌 [School Ride Platform](https://app.schoolrider.com/login)
-*"Making school transport smart and safe"*
-> Complete ecosystem: [Management App](https://app.schoolrider.com/login) + [Marketing Site](https://web.schoolrider.com/)
 
-### 💼 [IIM Frontend](https://iim.harrisconsult.org/login)
-*"Enterprise-grade meets user-friendly"*
-> Professional application for Institute of Information Management Africa
 
 ## 🌟 What Makes Me Different
 
@@ -112,7 +102,6 @@ I'm always up for exciting projects, interesting conversations, or just geeking 
 
 ## 💫 Fun Facts About Me
 
-- 🎮 I debug with the same intensity I play video games
 - 🎵 I code better with music (currently obsessed with lo-fi hip-hop)
 - 🌮 I believe the best code is written on a full stomach
 - 🎯 I can spot a misaligned div from across the room
