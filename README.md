@@ -61,7 +61,7 @@ JWT/OAuth 🔐 • Microservices Architecture 🎯
 Database Design & Optimization 🗄️
 ```
 
-### 🤖 **AI, ML & Agentic Development (My Specialty!)**
+### 🤖 **AI, ML & Agentic Development**
 ```bash
 LLM Integration & Prompt Engineering 🧠
 Agentic AI Frameworks: LangChain, CrewAI 🤖
