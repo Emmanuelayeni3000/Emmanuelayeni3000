@@ -1,5 +1,5 @@
 # Hey there! 👋 I'm Emmanuel Ayeni
-### Full Stack Developer | AI/ML Engineer | Agentic AI Specialist | Code Craftsman | Problem Solver Extraordinaire 🚀
+### Full Stack Developer | Agentic AI Developer | Code Craftsman | Problem Solver Extraordinaire 🚀
 
 > *"I turn coffee into code, ideas into reality, and intelligence into agents"* ☕️ → 💻 → 🤖
 
